@@ -5,7 +5,7 @@
 ![React](https://img.shields.io/badge/React-19.3-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-8.x-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Build](https://img.shields.io/badge/Build-Passing-10B981?style=for-the-badge&logo=githubactions&logoColor=white)
+[![CI Pipeline](https://github.com/YURIVIVIANAOCAMPO/saas-admin-hub/actions/workflows/ci.yml/badge.svg)](https://github.com/YURIVIVIANAOCAMPO/saas-admin-hub/actions)
 ![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)
 
 <p align="center">
@@ -103,7 +103,7 @@ Sigue estos sencillos pasos para ejecutar el proyecto en tu entorno local:
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/tu-usuario/saas-admin-hub.git
+git clone https://github.com/YURIVIVIANAOCAMPO/saas-admin-hub.git
 
 # 2. Entrar a la carpeta del proyecto
 cd saas-admin-hub
@@ -130,7 +130,7 @@ npm run build
 ## 👩‍💻 Autora
 
 Desarrollado con dedicación por **Viviana Ocampo**  
-- GitHub: [@tu-usuario](https://github.com)  
+- GitHub: [@YURIVIVIANAOCAMPO](https://github.com/YURIVIVIANAOCAMPO)  
 - Contacto: [darataz0402@gmail.com](mailto:darataz0402@gmail.com)
 
 ---
